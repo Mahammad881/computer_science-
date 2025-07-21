@@ -1,0 +1,1 @@
+print("prajwal is a bad boy also sometimes he is a bad boy")
